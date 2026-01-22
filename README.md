@@ -32,7 +32,7 @@ This repository contains my solutions for the SIG AI Recruitment tasks.
 
 \- Task 3: Regression Reasoning
 
-\- Task 4: KNN \& Imbalanced Data
+
 
 
 
